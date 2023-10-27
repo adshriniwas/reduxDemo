@@ -1,0 +1,42 @@
+[
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "name": "Surya",
+      "designation": "Software Developer"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      "name": "Anand",
+      "designation": "Doctor"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "name": "Vishal",
+      "designation": "Engineer"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      "name": "Venkat",
+      "designation": "Student"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "name": "Naresh",
+      "designation": "Advocate"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      "name": "Pavan",
+      "designation": "Student"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "name": "Sravya",
+      "designation": "Scientist"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      "name": "Pawar",
+      "designation": "Software Developer"
+    }
+  ]
