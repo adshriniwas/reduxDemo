@@ -36,20 +36,20 @@ const Feeds = (props) => {
     <>
       <p>Feeds</p>
       <News/>
-      {/* {latitude && longitude?
-      (<> */}
+      {latitude && longitude?
+      (<>
         <p>My Location is:</p>
         <ul>
           <li>latitude: {latitude}</li>
           <li>longitude: {longitude}</li>
         </ul>
         </>
-      // ):
-      // <>
-      //   <p>fetching....</p>
-      // </>
-      // }
-    // </>
+      ):
+      <>
+        <p>fetching....</p>
+      </>
+      }
+    </>
   );
 };
 
