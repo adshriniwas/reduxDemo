@@ -1,16 +1,25 @@
-import { createSlice } from "@reduxjs/toolkit";
+import {
+    createSlice
+} from "@reduxjs/toolkit";
 
 const locationSlice = createSlice({
-    name:"location",
+    name: "location",
     initialState: {
-        latitude:"",
-        longitude:""
+        latitude: "",
+        longitude: ""
     },
-    reducers:{
-        setLocation: (state,action)=> action.payload
-        
+    reducers: {
+        setLocation: (state, action) => {
+            
+            return{
+                ...action.payload
+            }
+        }
+
     },
 });
 
-export const {setLocation} = locationSlice.actions
+export const {
+    setLocation
+} = locationSlice.actions
 export default locationSlice.reducer
